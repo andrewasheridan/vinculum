@@ -1,0 +1,7 @@
+*__pycache__*
+.env
+.idea
+.mypy_cache
+.ruff_cache
+poetry.lock
+node_modules
